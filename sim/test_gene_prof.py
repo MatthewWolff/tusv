@@ -43,11 +43,7 @@ gp = gnpr.GeneProf(chrom_dict, constants_dict)
 gp.print_info()
 print ''
 
-<<<<<<< HEAD
 gp.multi_mutations()
-=======
-gp.muti_mutations()
->>>>>>> c5222f8eb70a1e1bff9819725c4f5f8e766f2e6e
 print '\n\n'
 print 'gp info:'
 gp.print_info()
